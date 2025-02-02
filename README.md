@@ -11,7 +11,7 @@ Create pixel art with dynamic grids, custom colors, and smooth drawing! Built wi
 - 📱 Responsive design
 
 ## Try It Out 🌐  
-[Live Demo](#) *(Add your GitHub Pages URL here later)*  
+[Live Demo](#)  
 
 ## How to Use 🛠️  
 1. Choose a color using the color picker  
