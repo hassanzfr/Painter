@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <title>Pixel Painter</title>
+</head>
+<body>
+  <div class="background"></div>
+  <div class="main-container">
+    <div class="sidebar">
+      <h1 class="title"> PIXEL PAINT </h1>
+      <p class="made-by">made by hassanzfr</p>
+      
+      <!-- Color Picker Section -->
+      <div class="color-picker-container">
+        <input type="color" id="colorPicker" value="#000000">
+        <div class="preset-colors">
+          <div class="preset red"></div>
+          <div class="preset green"></div>
+          <div class="preset blue"></div>
+        </div>
+      </div>
+
+      <!-- Tools Section -->
+      <div class="tools-box">
+        <div class="tool-row">
+          <button id="eraserButton">Eraser</button>
+          <button id="resetButton">Reset</button>
+        </div>
+        <div class="tool-row">
+          <button id="gridSizeButton">16px</button>
+          <button id="saveButton">Save</button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="container"></div>
+  </div>
+  <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
