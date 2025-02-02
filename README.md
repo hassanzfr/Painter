@@ -11,7 +11,7 @@ Create pixel art with dynamic grids, custom colors, and smooth drawing! Built wi
 - 📱 Responsive design
 
 ## Try It Out 🌐  
-[Live Demo](#)  
+[Live Demo](https://hassanzfr.github.io/PixelPainter/)  
 
 ## How to Use 🛠️  
 1. Choose a color using the color picker  
