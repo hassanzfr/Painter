@@ -1,5 +1,6 @@
 # PixelPainter 🎨  
 **A browser-based interactive drawing tool inspired by Etch-a-Sketch**  
+![sample](https://github.com/user-attachments/assets/558d3ee3-c518-41c9-b68b-ac7fa5b86ad8)
 
 Create pixel art with dynamic grids, custom colors, and smooth drawing! Built with HTML, CSS, and vanilla JavaScript.
 
